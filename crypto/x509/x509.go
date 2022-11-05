@@ -18,7 +18,7 @@ import (
 	"encoding/pem"
 	"errors"
 	"fmt"
-	"internal/godebug"
+	//FIXME: "internal/godebug"
 	"io"
 	"math/big"
 	"net"
@@ -728,7 +728,8 @@ type Certificate struct {
 var ErrUnsupportedAlgorithm = errors.New("x509: cannot verify signature: algorithm unimplemented")
 
 // debugAllowSHA1 allows SHA-1 signatures. See issue 41682.
-var debugAllowSHA1 = godebug.Get("x509sha1") == "1"
+//FIXME: remove SHA1 completely from protocol stack.
+var debugAllowSHA1 = false
 
 // An InsecureAlgorithmError indicates that the SignatureAlgorithm used to
 // generate the signature is not secure, and the signature has been rejected.
