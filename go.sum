@@ -1,0 +1,8 @@
+github.com/erfankam/goxcrypto v0.0.0-20221105115458-3d0c93256b6d h1:1grK7HNThdw22P63FMlRI9LZKMnejSnpjX897EwBpwE=
+github.com/erfankam/goxcrypto v0.0.0-20221105115458-3d0c93256b6d/go.mod h1:r4jAv4Edr/yif9Z/ct8Q0Azbcha2S6AP9V0DsvqEw2k=
+github.com/erfankam/goxcrypto/x/crypto/cryptobyte/asn1 v0.0.0-20221105115458-3d0c93256b6d h1:Nm2/hoNjEwi/jFBxTqjtrBeLLgXxXQxrToxqEju6/TY=
+github.com/erfankam/goxcrypto/x/crypto/cryptobyte/asn1 v0.0.0-20221105115458-3d0c93256b6d/go.mod h1:JRolR9GL3NjWuwFfI/WCwhHUSRHL/fzkWmXyaS9qy94=
+golang.org/x/crypto v0.1.0 h1:MDRAIl0xIo9Io2xV565hzXHw3zVseKrJKodhohM5CjU=
+golang.org/x/crypto v0.1.0/go.mod h1:RecgLatLF4+eUMCP1PoPZQb+cVrJcOPbHkTkbkB9sbw=
+golang.org/x/sys v0.1.0 h1:kunALQeHf1/185U1i0GOB/fy1IPRDDpuoOOqRReG57U=
+golang.org/x/sys v0.1.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
