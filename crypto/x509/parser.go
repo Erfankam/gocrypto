@@ -23,8 +23,8 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
-	"golang.org/x/crypto/cryptobyte"
-	cryptobyte_asn1 "golang.org/x/crypto/cryptobyte/asn1"
+	"github.com/erfankam/goxcrypto/x/crypto/cryptobyte"
+	cryptobyte_asn1 "github.com/erfankam/goxcrypto/x/crypto/cryptobyte/asn1"
 )
 
 // isPrintable reports whether the given b is in the ASN.1 PrintableString set.
